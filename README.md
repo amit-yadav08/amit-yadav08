@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Amit Yadav 👋
 
-<!--
-**amit-yadav08/amit-yadav08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech Computer Science student focused on building strong programming and computer science fundamentals.
 
-Here are some ideas to get you started:
+## Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C Programming
+- Pointers & Memory
+- Data Structures
+- Git & GitHub
+- Problem Solving
+
+## Current Focus
+
+I'm currently strengthening my programming fundamentals through consistent practice and small programs.
+
+My approach:
+
+**Learn → Code → Debug → Understand → Build**
+
+## Projects & Practice
+
+- [C Programming](https://github.com/amit-yadav08/c-programming) — C programming practice and learning repository
+
+## Goals
+
+- Build strong CS fundamentals
+- Become a strong software engineer
+- Build meaningful projects
+- Contribute to open source
+
+---
+
+*Currently learning. Constantly improving.*
